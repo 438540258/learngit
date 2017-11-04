@@ -3,6 +3,3 @@ liushanshan is a bad girl2222
 we are family
 the next day1111
 git tracks changes of files
-aaaaaaaaaa
-bbbbb
-ccccc
