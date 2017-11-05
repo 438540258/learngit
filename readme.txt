@@ -1,10 +1,8 @@
-git is a liushanshan control system1111.
-liushanshan is a bad girl2222
+git is a liushanshan control system
+liushanshan is a bad girl
 we are family
-liushanshan is a good girl.333
-shanying is baby.4444
-55555
-666
+liushanshan is a good girl.
+shanying is baby.
 
 
 
